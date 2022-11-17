@@ -1,0 +1,21 @@
+First I started the project by creating an YouTube API key which is the 
+credential to access youtube data
+
+I used Jupyter Notebook to write my python code.
+
+The project is divided into two parts.
+
+First part of the project deals with the channel details such as
+youtube channel name, total no of subscribers, total views and total number
+of videos posted by each channel.
+
+Here I used few Data Analysts channels to compare these channel data with each other
+and gain some insights by creating some basic visualizations using python seaborn libraries.
+
+In second part of the project I extracted specific chaneel videos details such as
+video title, total views of the video, each video likes and comments.
+
+Then analyzed this data by loading into a pandas dataframe and finally visualized the data using
+seaborn python library.
+
+
